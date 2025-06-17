@@ -4,6 +4,6 @@
 export default function Home() {
 
   return (
-    <div>Hola mundo primer commit</div>
+    <div>Hola mundo primer commit 2</div>
   );
 }
