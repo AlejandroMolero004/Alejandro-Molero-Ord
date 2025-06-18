@@ -1,0 +1,12 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+.personajes{
+   display: flex;
+   flex-direction:row;
+   row-gap: 10px;
+   column-gap: 20px;
+   flex-wrap: wrap;
+   justify-content: center;
+}
